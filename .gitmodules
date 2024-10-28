@@ -1,3 +1,4 @@
 [submodule "SphericalMask"]
 	path = SphericalMask
 	url = https://github.com/pedro-sidra-isi/SphericalMask
+	branch = master
