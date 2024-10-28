@@ -1,0 +1,3 @@
+[submodule "SphericalMask"]
+	path = SphericalMask
+	url = https://github.com/yunshin/SphericalMask
